@@ -25,3 +25,7 @@ you realize you need to setup your google places api and also enable billing api
 Step 4:
 
 python3 run.py
+
+Step 5:
+
+Export all the json or csv or a just a blob of text with all the email in them, go to email.py and replace them with tex, remember to keep the ''' <blob of data> ''' format, this will clean up all the non and repetitive emails and output an array, and leave the rest to someone named Michael.  
