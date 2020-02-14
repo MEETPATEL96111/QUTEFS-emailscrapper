@@ -1,0 +1,2 @@
+# QUTEFS-emailscrapper
+Michael wanna spam entertaiment business and ask for sponsership, so he thew me under the bus to scrape, This uses google places api to get entertaiments, then get their website and scrape their emails with regex, store them in mongo and then I manualy export them into csv and json, cleaned it up a bit and then sent him an array, have fun michael talking to 96 business in 3km raduis around QUT
